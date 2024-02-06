@@ -15,8 +15,8 @@ This project conducts a Recency, Frequency, Monetary (RFM) analysis on a superst
 ## Installation
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/arjunrao122/Swift-Portfolio.git
-    cd Swift-Portfolio/FilterTextSwiftUI
+    git clone https://github.com/arjunrao122/Data-Visualization.git
+    cd Data-Visualization/RFM-Analysis
     ```
 2. Open the `.xcodeproj` file in Xcode.
 
